@@ -1,3 +1,4 @@
+<div style=" background: linear-gradient(30deg, rgb(255, 255, 255) 20%, rgb(43, 36, 36) 90%);">
 <h1 align="center">👋🏻"Hello, world!" I'm Veekshan Rai</h1>
 <h3 align="center">Passionate frontend developer and a currently learning full-stack development.🚀</h3>
 
@@ -21,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veekshan-rai&show_icons=true&locale=en&layout=compact" alt="veekshan-rai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veekshan-rai&show_icons=true&locale=en" alt="veekshan-rai" /></p>
+</div>
