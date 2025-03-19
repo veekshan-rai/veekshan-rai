@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻"Hello, world!" I'm Veekshan Rai</h1>
+<h1 align="center">"Hello, world!👋🏻" I'm Veekshan Rai</h1>
 <h3 align="center">Passionate frontend developer and a currently learning full-stack development.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veekshan-rai&label=Profile%20views&color=0e75b6&style=flat" alt="veekshan-rai" /> </p>
