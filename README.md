@@ -52,14 +52,7 @@
 
 ## ✨ Cool Animations  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="400" alt="Coding Animation">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="300" alt="Tech Animation">
-</p>
-
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"> </p>
 ---
 
 ## 🌐 Connect With Me  
