@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Continuous+Learner;Welcome+to+my+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Continuous+Learner;Welcome+to+my+Profile!" />
 </p>
 
 ---
@@ -15,10 +15,11 @@
 💻 Currently learning **React**, **Node.js**, and **Backend Development**  
 🚀 Exploring the world of **AI & Automation**  
 🔥 Love solving challenges that push me beyond my limits  
+🎨 Fun fact: I love making **projects look aesthetic** and interactive  
 
 ---
 
-## ⚙️ My Tech Stack  
+## ⚡ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode,figma" />
@@ -36,11 +37,11 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veekshan-rai&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=veekshan-rai&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=veekshan-rai&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=veekshan-rai&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -49,10 +50,14 @@
 
 ---
 
-## ⚡ Fun Animation  
+## ✨ Cool Animations  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="400" alt="Coding Animation">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="300" alt="Tech Animation">
 </p>
 
 ---
@@ -77,4 +82,4 @@
 
 ---
 
-⭐ **Thanks for stopping by!** Don’t forget to ⭐ some repos if you like my work 😄  
+⭐ **Thanks for stopping by!** Don’t forget to ⭐ some repos if you like my work 😄
