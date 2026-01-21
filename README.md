@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  Hey there, I'm <a href="https://github.com/veekshan-rai" target="_blank">Veekshan Rai</a> 👋
+  Hii there, I'm <a href="https://github.com/veekshan-rai" target="_blank">Veekshan Rai</a> 👋
 </h1>
 
 <p align="center">
