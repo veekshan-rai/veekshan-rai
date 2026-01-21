@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  Hii there, I'm <a href="https://github.com/veekshan-rai" target="_blank">Veekshan Rai</a> 👋
+  Hey there, I'm <a href="https://github.com/veekshan-rai" target="_blank">Veekshan Rai</a> 👋
 </h1>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 ---
 
-## The Art of Programming 
+
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"> </p>
 ---
