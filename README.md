@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Continuous+Learner;Welcome+to+my+Profile!" />
 </p>
 
----
+
 
 ## 🧠 About Me  
 
@@ -17,7 +17,7 @@
 🔥 Love solving challenges that push me beyond my limits  
 🎨 Fun fact: I love making **projects look aesthetic** and interactive  
 
----
+
 
 ## ⚡ Tech Stack  
 
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode,bootstrap" />
 </p>
 
----
+
 
 ## 🌟 Featured Projects  
 
@@ -35,7 +35,7 @@
 | 🛒 **E-Commerce Platform** | React + Node.js project for product listings | _Coming soon_ |
 | 🤖 **AI Chatbot** | Smart chatbot with NLP & Python | _In progress_ |
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -48,12 +48,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veekshan-rai&theme=react-dark" alt="Veekshan Rai's GitHub Graph" />
 </p>
 
----
+
 
 
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"> </p>
----
+
 
 ## 🌐 Connect With Me  
 
@@ -63,7 +63,7 @@
   <a href="veekshanrai716@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
----
+
 
 ## 🧩 Quote of the Day  
 
