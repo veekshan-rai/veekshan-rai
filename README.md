@@ -25,18 +25,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode,bootstrap" />
 </p>
 
-
-
-## 🌟 Featured Projects  
-
-| Project | Description | Link |
-|----------|--------------|------|
-| 🍔 **Food Delivery App** | Full-stack online food ordering web app | [🔗 Repo](https://github.com/veekshan-rai/Food-delivery) |
-| 🛒 **E-Commerce Platform** | React + Node.js project for product listings | _Coming soon_ |
-| 🤖 **AI Chatbot** | Smart chatbot with NLP & Python | _In progress_ |
-
-
-
 ## 📊 GitHub Stats  
 
 <p align="center">
