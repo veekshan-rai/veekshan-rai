@@ -18,13 +18,6 @@
 🎨 Fun fact: I love making **projects look aesthetic** and interactive  
 
 
-
-## ⚡ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github,vscode,bootstrap" />
-</p>
-
 ## 📊 GitHub Stats  
 
 <p align="center">
