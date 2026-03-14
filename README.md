@@ -1,13 +1,17 @@
-# hey, this is Veekshan Rai 👋
+# hey, i'm Veekshan Rai 👋
 
-### a bit about me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
-i'm a developer learning full stack development.
-i enjoy building web applications and improving my coding skills.
+### 👨‍💻 about me
+
+i'm a developer learning **full stack development**.
+i enjoy building web applications and learning new technologies.
 
 ---
 
-### tech i work with
+### 🛠 tech stack
 
 * java
 * python
@@ -17,22 +21,33 @@ i enjoy building web applications and improving my coding skills.
 
 ---
 
-### my interests
+### 🌱 interests
 
 * backend development
 * web development
 * problem solving
-* learning new technologies
 * open source
 
 ---
 
-### my goal
+### 🚀 goal
 
 becoming a strong **full stack developer** and building meaningful projects.
 
 ---
 
-### contact
+### 👀 profile visitors
 
-github: https://github.com/veekshan-rai
+![](https://komarev.com/ghpvc/?username=veekshan-rai\&color=blue)
+
+---
+
+### 📊 github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veekshan-rai\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=veekshan-rai\&theme=tokyonight)
+
+---
+
+✨ *always learning, always building.*
