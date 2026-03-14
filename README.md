@@ -43,9 +43,6 @@ becoming a strong **full stack developer** and building meaningful projects.
 ---
 
 ### 📊 github stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veekshan-rai\&show_icons=true\&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=veekshan-rai\&theme=tokyonight)
 
 ---
