@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=veekshan-rai\&color=blue)
 # hey, i'm Veekshan Rai 👋
 
 <p align="center">
@@ -36,9 +37,8 @@ becoming a strong **full stack developer** and building meaningful projects.
 
 ---
 
-### 👀 profile visitors
 
-![](https://komarev.com/ghpvc/?username=veekshan-rai\&color=blue)
+
 
 ---
 
