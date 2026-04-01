@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=veekshan-rai\&color=blue)
 # hey, i'm Veekshan Rai 👋
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="readme.gif" width="400"/>
 </p>
 
 ### 👨‍💻 about me
