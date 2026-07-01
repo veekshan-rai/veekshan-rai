@@ -21,7 +21,7 @@ i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🌱 interests
+### 🌱 Interests
 
 * backend development
 * web development
@@ -32,7 +32,7 @@ i enjoy building web applications and learning new technologies.
 
 ### 🚀 Goal
 
-becoming a strong **full stack developer** and building meaningful projects.
+Becoming a strong **full stack developer** and building meaningful projects.
 
 ---
 
