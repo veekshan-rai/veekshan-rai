@@ -6,18 +6,18 @@
 
 ### 👨‍💻 about me
 
-i'm a developer learning **full stack development**.
+I'm a developer learning **full stack development**.
 i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🛠 tech stack
+### 🛠 Tech stack
 
-* java
-* python
-* javascript
+* Java
+* Python
+* Javascript
 * html / css
-* django
+* Django
 
 ---
 
@@ -30,7 +30,7 @@ i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🚀 goal
+### 🚀 Goal
 
 becoming a strong **full stack developer** and building meaningful projects.
 
@@ -41,7 +41,7 @@ becoming a strong **full stack developer** and building meaningful projects.
 
 ---
 
-### 📊 github stats
+### 📊 Github stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=veekshan-rai\&theme=tokyonight)
 
 ---
