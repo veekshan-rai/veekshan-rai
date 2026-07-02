@@ -11,7 +11,7 @@ i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🛠 Tech stack
+🛠 Tech stack
 
 * Java
 * Python
@@ -21,7 +21,7 @@ i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🌱 Interests
+🌱 Interests
 
 * backend development
 * web development
@@ -30,7 +30,7 @@ i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🚀 Goal
+🚀 Goal
 
 Becoming a strong **full stack developer** and building meaningful projects.
 
@@ -41,7 +41,7 @@ Becoming a strong **full stack developer** and building meaningful projects.
 
 ---
 
-### 📊 Github stats
+📊 Github stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=veekshan-rai\&theme=tokyonight)
 
 ---
