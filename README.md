@@ -30,7 +30,7 @@ i enjoy building web applications and learning new technologies.
 
 ---
 
-### 🚀 Goal
+### 🚀 Goals
 
 Becoming a strong **full stack developer** and building meaningful projects.
 
