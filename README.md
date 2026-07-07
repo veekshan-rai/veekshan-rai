@@ -41,8 +41,9 @@ Becoming a strong **full stack developer** and building meaningful projects.
 
 ---
 
-### 📊 Github stats
-![GitHub Streak](https://streak-stats.demolab.com?user=veekshan-rai\&theme=tokyonight)
+### 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=veekshan-rai&theme=tokyonight)
 
 ---
 
