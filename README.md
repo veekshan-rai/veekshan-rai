@@ -16,7 +16,7 @@ i enjoy building web applications and learning new technologies.
 * Java
 * Python
 * Javascript
-* html / css
+* html & css
 * Django
 
 ---
@@ -34,6 +34,3 @@ i enjoy building web applications and learning new technologies.
 
 Becoming a strong **full stack developer** and building meaningful projects.
 
----
-
-✨ *always learning, always building.*
