@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=veekshan-rai\&color=blue)
-### Hey, i'm Veekshan Rai 👋
+### Hey, I'm Veekshan Rai 👋
 <p align="center">
   <img src="readme.gif" width="800"/>
 </p>
 
-### 👨‍💻 about me
+### 👨‍💻 About me
 
 I'm a developer learning **full stack development**.
 i enjoy building web applications and learning new technologies.
