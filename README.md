@@ -34,3 +34,4 @@ i enjoy building web applications and learning new technologies.
 
 Becoming a strong **full stack developer** and building meaningful projects.
 
+
