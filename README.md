@@ -4,10 +4,7 @@
   <img src="readme.gif" width="800"/>
 </p>
 
-### 👨‍💻 About me
-
-I'm a developer learning **full stack development**.
-i enjoy building web applications and learning new technologies.
+I enjoy building web applications and learning new technologies.
 
 ---
 
@@ -18,15 +15,6 @@ i enjoy building web applications and learning new technologies.
 * Javascript
 * html & css
 * Django
-
----
-
-### 🌱 Interests
-
-* backend development
-* web development
-* problem solving
-* open source
 
 ---
 
