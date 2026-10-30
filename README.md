@@ -3,10 +3,13 @@
 ---
 <p><strong>Aspiring Java Full Stack Developer</strong></p>
 <p>Curious mind. Creative code. Continuous growth.</p>
+
 ---
+
 <p align="center">
   <img src="readme.gif" width="800"/>
 </p>
+
 ---
 
 ### 🌐 Let's Connect
