@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=veekshan-rai\&color=blue)
+
 ### Hey, I'm Veekshan Rai 👋
 <p align="center">
   <img src="readme.gif" width="800"/>
